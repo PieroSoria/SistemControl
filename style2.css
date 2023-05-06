@@ -1,0 +1,25 @@
+/*ESTILOS PART 2*/
+.fue{
+    margin-top: 70px;
+    padding: auto;
+    text-align: center;
+    
+}
+
+.sop{
+    font-size: 45px;
+}
+
+.hol {
+    width: 250px;
+    height: 35px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.fed1{
+    margin-left: 150px;
+    width: 600px;
+    height: 35px;
+}
